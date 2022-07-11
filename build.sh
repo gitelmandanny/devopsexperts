@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-echo "Bulding package ${PKG}"
+echo "Bulding super duper package ${PKG}"
 
 if [[ ${UNITTEST} == "true" ]]; then
  echo "running unittests"
